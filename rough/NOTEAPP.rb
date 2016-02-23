@@ -1,5 +1,3 @@
-
-
 module NoteApp
   class NotesApplication
   attr_accessor :author ,:note_list
